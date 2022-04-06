@@ -1,4 +1,8 @@
-# Fabric Example Mod
+# Too much Amethyst Mod
+
+##Description
+
+This is our first mod. Hope you enjoy :)
 
 ## Setup
 
