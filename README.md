@@ -1,6 +1,6 @@
 # Too much Amethyst Mod
 
-##Description
+## Description
 
 This is our first mod. Hope you enjoy :)
 
