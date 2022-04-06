@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "tutorialmod",
   "version": "${version}",
 
-  "name": "Example Mod",
+  "name": "Tutorial Mod",
   "description": "This is an example description! Tell everyone what your mod is about!",
   "authors": [
-    "Me!"
+    "tomlorbich"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
@@ -14,16 +14,16 @@
   },
 
   "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/tutorialmod/textures/item/amethyst_ingot.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "net.tomlorbich.tutorialmod.TutorialMod"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "tutorialmod.mixins.json"
   ],
 
   "depends": {
