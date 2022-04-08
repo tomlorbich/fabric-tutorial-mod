@@ -1,4 +1,7 @@
 {
   "item.tutorialmod.amethyst_ingot": "Amethyst Ingot",
-  "item.tutorialmod.amethyst_sword": "Amethyst Sword"
+  "item.tutorialmod.amethyst_sword": "Amethyst Sword",
+
+  "block.tutorialmod.amethyst_block": "Amethyst Block"
+
 }
