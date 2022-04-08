@@ -1,7 +1,9 @@
 {
   "item.tutorialmod.amethyst_ingot": "Amethyst Ingot",
+  "item.tutorialmod.amethyst_nugget": "Amethyst Nugget",
   "item.tutorialmod.amethyst_sword": "Amethyst Sword",
 
-  "block.tutorialmod.amethyst_block": "Amethyst Block"
+  "block.tutorialmod.amethyst_block": "Amethyst Block",
+  "block.tutorialmod.amethyst_ore": "Amethyst Ore"
 
 }

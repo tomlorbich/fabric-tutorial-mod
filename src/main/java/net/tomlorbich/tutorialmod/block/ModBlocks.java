@@ -17,6 +17,9 @@ public class ModBlocks {
     public static final Block AMETHYST_BLOCK = registerBlock("amethyst_block",
             new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), ItemGroup.BUILDING_BLOCKS);
 
+    public static final Block AMETHYST_ORE = registerBlock("amethyst_ore",
+            new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), ItemGroup.BUILDING_BLOCKS);
+
     private static Block registerBlock(String name, Block block, ItemGroup group) {
         registerBlockItem(name, block, group);
         return Registry.register(Registry.BLOCK, new Identifier(TutorialMod.MOD_ID, name), block);

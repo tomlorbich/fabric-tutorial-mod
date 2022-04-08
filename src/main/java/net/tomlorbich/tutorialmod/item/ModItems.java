@@ -14,6 +14,9 @@ public class ModItems {
     public static final Item AMETHYST_INGOT = registerItem("amethyst_ingot",
             new Item(new FabricItemSettings().group(ItemGroup.MISC)));
 
+    public static final Item AMETHYST_NUGGET = registerItem("amethyst_nugget",
+            new Item(new FabricItemSettings().group(ItemGroup.MISC)));
+
     public static final Item AMETHYST_SWORD = registerItem("amethyst_sword",
             new SwordItem(ModToolMaterials.AMETHYST, 10, 2f,
                     new FabricItemSettings().group(ItemGroup.COMBAT)));
